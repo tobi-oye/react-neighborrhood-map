@@ -1,0 +1,9 @@
+.searchHeader {
+  text-align: center;
+  padding: 10px;
+}
+input {
+  width: 80%;
+  margin: 5px;
+  align-items: center;
+}
