@@ -1,4 +1,3 @@
-import logo from "./logo.svg";
 import "./App.css";
 import SearchBar from "./components/searchBar/index.js";
 import Map from "./components/map/index.js";
